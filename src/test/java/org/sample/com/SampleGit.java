@@ -15,7 +15,16 @@ public class SampleGit {
 	private void method3() {
 		System.out.println("I am method 3");
 
+
 	}
+	
+	private void mouse() {
+		System.out.println("Mouse");
+
+	}
+	
+	private void rat() {
+		System.out.println("rat");
 	
 	private void Main() {
 		SampleGit sg = new SampleGit();
